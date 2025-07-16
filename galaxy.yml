@@ -1,0 +1,15 @@
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Your Name (@shvirtd-19)
+description: Collection for Yandex Cloud ELK management
+license: GPL-3.0-or-later
+repository: https://github.com/Hoodooman/ansible-collection-yandex-cloud-elk.git
+documentation: https://github.com/Hoodooman/ansible-collection-yandex-cloud-elk
+keywords:
+  - yandex
+  - cloud
+  - elk
+  - file
